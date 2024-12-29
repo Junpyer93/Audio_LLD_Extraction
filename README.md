@@ -29,7 +29,7 @@ For more details, refer to the official MPEG-7 standard ISO/IEC 15938-4:2001 and
 
 This project uses functions from the MIRToolbox (licensed under MIT License).
 The software is developed by Olivier Lartillot, Petri Toivanien, Pasi Saari and Tuomas Eerola, members of the Finnish Centre of Excellence in Interdisciplinary Music Research, University of Jyväskylä, Finland.
-For more details, refer to  (https://github.com/olivierlar/mirtoolbox)
+For more details, refer to  (https://github.com/olivierlar/mirtoolbox) and download it for use this project.
 
 To run this project, it is necessary to install the MATLAB Audio Toolbox.
 
